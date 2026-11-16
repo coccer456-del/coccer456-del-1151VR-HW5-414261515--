@@ -34,10 +34,15 @@ https://youtu.be/-uzWca3YmHQ
   特效也很多但我覺得比較難的是收服精靈後使精靈球晃動三次且幅度越來越小
   
   for (int i = 0; i < 3; i++){
+  
     float wobble = Mathf.Sin(t * Mathf.PI * 2f) * (22f - i * 4f);
+	
     //利用公式sin(2*pi*t)設定晃動為週期性變化
+	
     //乘上(22f - i * 4f)使的幅度隨次數變小
+	
     ball.rotation = ballStartRotation * Quaternion.Euler(0f, 0f, wobble);
+	
   }
   
   老實說我真沒想到用sin原本想一步步調整
