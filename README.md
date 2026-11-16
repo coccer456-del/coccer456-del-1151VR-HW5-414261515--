@@ -13,6 +13,7 @@ https://youtu.be/-uzWca3YmHQ
 
   基本上素材部分都由AI生成，我試過自己畫的山實在太醜了
 
+
 2.精靈球拋物線飛行(次難)
 
   這邊最重要的就是這段
@@ -28,6 +29,7 @@ https://youtu.be/-uzWca3YmHQ
   H：arcHeight，設定最高額外高度
   
   t：飛行進度，從 0 增加到 1
+
 		
 3.收服動畫與特效同步
 
@@ -46,6 +48,7 @@ https://youtu.be/-uzWca3YmHQ
   }
   
   老實說我真沒想到用sin原本想一步步調整
+
 
 
 
