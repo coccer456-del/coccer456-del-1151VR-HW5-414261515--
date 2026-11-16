@@ -1,0 +1,129 @@
+# Original demo materials for the Unity capture scene
+newmtl skin
+Ka 0.25 0.25 0.25
+Kd 0.96000 0.73900 0.58000
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl hair
+Ka 0.25 0.25 0.25
+Kd 0.34500 0.23900 0.18700
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl cap_red
+Ka 0.25 0.25 0.25
+Kd 0.91800 0.32000 0.34900
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl cap_white
+Ka 0.25 0.25 0.25
+Kd 0.97200 0.95600 0.86400
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl jacket
+Ka 0.25 0.25 0.25
+Kd 0.23500 0.50200 0.74100
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl pants
+Ka 0.25 0.25 0.25
+Kd 0.20000 0.26300 0.38800
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl shoes
+Ka 0.25 0.25 0.25
+Kd 0.15500 0.18300 0.22700
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl backpack
+Ka 0.25 0.25 0.25
+Kd 0.75400 0.36900 0.33700
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl dark
+Ka 0.25 0.25 0.25
+Kd 0.18000 0.18200 0.20700
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl yellow
+Ka 0.25 0.25 0.25
+Kd 0.98000 0.84700 0.31000
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl cheek
+Ka 0.25 0.25 0.25
+Kd 0.94800 0.47000 0.45400
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl ear
+Ka 0.25 0.25 0.25
+Kd 0.28200 0.21500 0.19600
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl white
+Ka 0.25 0.25 0.25
+Kd 0.97400 0.96400 0.92300
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl red
+Ka 0.25 0.25 0.25
+Kd 0.91600 0.34500 0.34500
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl black
+Ka 0.25 0.25 0.25
+Kd 0.12500 0.14200 0.16500
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
+newmtl silver
+Ka 0.25 0.25 0.25
+Kd 0.81100 0.84200 0.85100
+Ks 0.04 0.04 0.04
+Ns 16
+d 1.0
+illum 2
+
